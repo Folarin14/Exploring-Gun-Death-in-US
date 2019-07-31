@@ -1,2 +1,2 @@
 # Exploring-Gun-Death-in-US
-This project serves to explore Gun Deaths patterns and causes between 2012 and 2014 in the United States
+This project serves to explore Gun Deaths patterns and causes between 2012 and 2014 in the United States. This project identifies patterns in gun deaths across race and gender. It was discovered that African-Americans have the highest general gun deaths per hundred thousand as well as homicide deaths per hundred thousand. This confirms the perception of the general public regarding the prevalent violence in the black community.
